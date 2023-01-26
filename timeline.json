@@ -1,0 +1,110 @@
+{
+    "title": {
+        "text": {
+            "headline": "Medieval Manuscripts from the collections of Leiden University Libraries",
+            "text": "<p>ARMA</p>"
+        }
+    },
+    "events": [
+        {
+            "media": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fiiif%2F2%2Fhdl%253A1887.1%252Fitem%253A3218597%2Ffull%2F800%2C%2F0%2Fdefault.jpg&type=TEXT",
+            "start_date": {
+                "year": "1523"
+            },
+            "text": {
+                "headline": "THYSPF DUI 6",
+                "text": "Warlicher bericht: wie von den dreyen Churfu\u0308rsten und Fu\u0308rsten, Namlich Tryer, Pfaltz unnd Hessen, weylandt Frantz von Sickingen uberzogen: Auch was sich im selbigen mit eroberung seiner und anderer Schlo\u0308sser, unnd sunst von tag zu tag begeben, durch den Erenhalt verzeychet : Anno M.D.XXIII"
+            }
+        },
+        {
+            "media": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fiiif%2F2%2Fhdl%253A1887.1%252Fitem%253A1679045%2Ffull%2F800%2C%2F0%2Fdefault.jpg&type=TEXT",
+            "start_date": {
+                "year": "1550"
+            },
+            "text": {
+                "headline": "LTK 168",
+                "text": "Rijmbijbel / Jacob van Maerlant"
+            }
+        },
+        {
+            "media": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fiiif%2F2%2Fhdl%253A1887.1%252Fitem%253A1595937%2Ffull%2F800%2C%2F0%2Fdefault.jpg&type=TEXT",
+            "start_date": {
+                "year": "1550"
+            },
+            "text": {
+                "headline": "LTK 607",
+                "text": "Rule of the Poor Clares (Dutch), and other text(s)"
+            }
+        },
+        {
+            "media": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fiiif%2F2%2Fhdl%253A1887.1%252Fitem%253A1687348%2Ffull%2F800%2C%2F0%2Fdefault.jpg&type=TEXT",
+            "start_date": {
+                "year": "1650"
+            },
+            "text": {
+                "headline": "LTK 304",
+                "text": "Book of hours and prayers (Dutch)"
+            }
+        },
+        {
+            "media": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fiiif%2F2%2Fhdl%253A1887.1%252Fitem%253A1508159%2Ffull%2F800%2C%2F0%2Fdefault.jpg&type=TEXT",
+            "start_date": {
+                "year": "1650"
+            },
+            "text": {
+                "headline": "LTK 1511",
+                "text": "Van Landen Kaerleman, and other text(s)"
+            }
+        },
+        {
+            "media": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fiiif%2F2%2Fhdl%253A1887.1%252Fitem%253A1599959%2Ffull%2F800%2C%2F0%2Fdefault.jpg&type=TEXT",
+            "start_date": {
+                "year": "1450"
+            },
+            "text": {
+                "headline": "BPL 14 E",
+                "text": "Spiegel historiael (fifth part) / Lodewijk van Velthem"
+            }
+        },
+        {
+            "media": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fiiif%2F2%2Fhdl%253A1887.1%252Fitem%253A1672549%2Ffull%2F800%2C%2F0%2Fdefault.jpg&type=TEXT",
+            "start_date": {
+                "year": "1550"
+            },
+            "text": {
+                "headline": "BPL 2856",
+                "text": "Psalter and breviary, Birgittine use (Latin)"
+            }
+        },
+        {
+            "media": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fiiif%2F2%2Fhdl%253A1887.1%252Fitem%253A2706784%2Ffull%2F800%2C%2F0%2Fdefault.jpg&type=TEXT",
+            "start_date": {
+                "year": "1250"
+            },
+            "text": {
+                "headline": "LIP 34",
+                "text": "Aeneid / Virgil"
+            }
+        },
+        {
+            "media": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fiiif%2F2%2Fhdl%253A1887.1%252Fitem%253A1653813%2Ffull%2F800%2C%2F0%2Fdefault.jpg&type=TEXT",
+            "start_date": {
+                "year": "1438"
+            },
+            "text": {
+                "headline": "LIP 50",
+                "text": "Catilina / Sallust, and other text(s)"
+            }
+        },
+        {
+            "media": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fiiif%2F2%2Fhdl%253A1887.1%252Fitem%253A1838653%2Ffull%2F800%2C%2F0%2Fdefault.jpg&type=TEXT",
+            "start_date": {
+                "year": "1550"
+            },
+            "text": {
+                "headline": "LTK 287",
+                "text": "Lay breviary (Dutch)"
+            }
+        }
+    ]
+}
