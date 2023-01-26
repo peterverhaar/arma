@@ -6,6 +6,16 @@
         }
     },
     "events": [
+                {
+            "media": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fiiif%2F2%2Fhdl%253A1887.1%252Fitem%253A3218597%2Ffull%2F800%2C%2F0%2Fdefault.jpg&type=TEXT",
+            "start_date": {
+                "year": "1523"
+            },
+            "text": {
+                "headline": "THYSPF DUI 6",
+                "text": "Warlicher bericht: wie von den dreyen Churfu\u0308rsten und Fu\u0308rsten, Namlich Tryer, Pfaltz unnd Hessen, weylandt Frantz von Sickingen uberzogen: Auch was sich im selbigen mit eroberung seiner und anderer Schlo\u0308sser, unnd sunst von tag zu tag begeben, durch den Erenhalt verzeychet : Anno M.D.XXIII"
+            }
+        },
         {
             "media": {
                 "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/TL1_Ordinaire Leydse Courant 30-3-1686.jpg"
