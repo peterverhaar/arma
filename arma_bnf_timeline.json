@@ -35,7 +35,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514782w%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14830119"
+                "year": 1483
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514782w\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 40</a>",
@@ -299,7 +299,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514772g%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14810215"
+                "year": 1481
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514772g\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 29</a>",
@@ -311,7 +311,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514772g%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14810215"
+                "year": 1481
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514772g\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 29</a>",
@@ -491,7 +491,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514770k%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14700704"
+                "year": 1470
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514770k\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 26</a>",
@@ -1259,7 +1259,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514773x%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "13931213"
+                "year": 1393
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514773x\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 3</a>",
@@ -1319,7 +1319,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514765d%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "13321127"
+                "year": 1332
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514765d\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 21</a>",
@@ -1451,7 +1451,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52508224g%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "5640717"
+                "year": 5640
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52508224g\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Latin 4568A</a>",
@@ -1895,7 +1895,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514775t%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14980215"
+                "year": 1498
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514775t\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 31</a>",
@@ -1907,7 +1907,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514775t%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14980215"
+                "year": 1498
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514775t\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 31</a>",
@@ -2315,7 +2315,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514766v%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14590303"
+                "year": 1459
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514766v\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 22</a>",
@@ -2459,7 +2459,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514764z%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "13650506"
+                "year": 1365
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514764z\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 2</a>",
@@ -3263,7 +3263,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514768r%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14681208"
+                "year": 1468
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514768r\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 24</a>",
@@ -3503,7 +3503,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b525147874%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "15440131"
+                "year": 1544
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b525147874\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 46</a>",
@@ -3575,7 +3575,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b525147696%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14770228"
+                "year": 1477
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b525147696\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 25</a>",
@@ -3623,7 +3623,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b525147679%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14340930"
+                "year": 1434
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b525147679\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 23</a>",
@@ -3671,7 +3671,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b525147946%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "15550121"
+                "year": 1555
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b525147946\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 52</a>",
@@ -3815,7 +3815,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514786p%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "15070422"
+                "year": 1507
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514786p\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 45</a>",
@@ -4103,7 +4103,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514783b%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14961203"
+                "year": 1496
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514783b\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 42</a>",
@@ -4523,7 +4523,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b525147711%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14590806"
+                "year": 1459
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b525147711\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 27</a>",
@@ -4727,7 +4727,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514788k%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "15480718"
+                "year": 1548
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514788k\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 47</a>",
@@ -4739,7 +4739,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514788k%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "15480718"
+                "year": 1548
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514788k\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 47</a>",
@@ -5039,7 +5039,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514793r%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "15510528"
+                "year": 1551
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514793r\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 51</a>",
@@ -5063,7 +5063,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b525147785%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14800513"
+                "year": 1480
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b525147785\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 35</a>",
@@ -7019,7 +7019,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b525147929%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "15370822"
+                "year": 1537
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b525147929\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 50</a>",
@@ -7031,7 +7031,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514777q%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14970831"
+                "year": 1497
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514777q\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 33</a>",
@@ -7043,7 +7043,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514777q%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14970831"
+                "year": 1497
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514777q\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 33</a>",
@@ -7511,7 +7511,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b525147800%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14831207"
+                "year": 1483
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b525147800\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 37</a>",
@@ -7595,7 +7595,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b525147768%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14850101"
+                "year": 1485
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b525147768\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 32</a>",
@@ -7655,7 +7655,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b525147857%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "15030418"
+                "year": 1503
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b525147857\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 44</a>",
@@ -8555,7 +8555,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514784s%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "15310604"
+                "year": 1531
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514784s\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 43</a>",
@@ -9899,7 +9899,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514781f%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "14670804"
+                "year": 1467
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514781f\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 39</a>",
@@ -9971,7 +9971,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514790d%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "15270821"
+                "year": 1527
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514790d\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 49</a>",
@@ -10799,7 +10799,7 @@
                 "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b52514791v%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=TEXT"
             },
             "start_date": {
-                "year": "13860921"
+                "year": 1386
             },
             "text": {
                 "headline": "<a href=\"https://www.europeana.eu/item/9200519/ark__12148_btv1b52514791v\" target=\"_blank\">Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Chapp\u00e9e 12, 5</a>",
